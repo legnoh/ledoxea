@@ -34,8 +34,8 @@
     <icon></icon>
     <android>
         <colorDepth>16bit</colorDepth>
-        <manifestAdditions><![CDATA[<manifest><uses-permission android:name="android.permission.INTERNET"/><uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/><uses-permission android:name="android.permission.READ_PHONE_STATE"/><uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/><uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/><uses-permission android:name="android.permission.CAMERA"/><uses-permission android:name="android.permission.RECORD_AUDIO"/><uses-permission android:name="android.permission.DISABLE_KEYGUARD"/><uses-permission android:name="android.permission.WAKE_LOCK"/><uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/><uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/></manifest>]]></manifestAdditions>
+        <manifestAdditions><![CDATA[<manifest><uses-permission android:name="android.permission.INTERNET"/></manifest>]]></manifestAdditions>
     </android>
     <versionLabel></versionLabel>
-    <supportedLanguages>en zh cs nl fr de it ja ko pl pt ru es sv tr</supportedLanguages>
+    <supportedLanguages>en ja</supportedLanguages>
 </application>
