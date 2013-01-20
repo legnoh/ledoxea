@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <application xmlns="http://ns.adobe.com/air/application/3.2">
-    <id>legdoxea</id>
+    <id>ledoxea</id>
     <versionNumber>1.0.0</versionNumber>
-    <filename>Legdoxea</filename>
+    <filename>LEDOXEA</filename>
     <description>Legdoxea is 3D view e-learning searcher.</description>
     <!-- To localize the description, use the following format for the description element.
   <description>
@@ -10,7 +10,7 @@
     <text xml:lang="ja">Legdoxeaは、3D表示型のeラーニングドキュメント検索エンジンです。</text>
   </description>
   -->
-    <name>Legdoxea</name>
+    <name>LEDOXEA</name>
     <!-- To localize the name, use the following format for the name element.
   <name>
     <text xml:lang="en">English App name goes here</text>
@@ -31,7 +31,11 @@
     </initialWindow>
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
-    <icon></icon>
+    <icon>
+        <image36x36>icon_036.png</image36x36>
+        <image48x48>icon_048.png</image48x48>
+        <image72x72>icon_072.png</image72x72>
+    </icon>
     <android>
         <colorDepth>16bit</colorDepth>
         <manifestAdditions><![CDATA[<manifest><uses-permission android:name="android.permission.INTERNET"/></manifest>]]></manifestAdditions>
