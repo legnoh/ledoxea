@@ -7,7 +7,7 @@ LEDOXEAは、[Away3D](http://away3d.com)を用いた３次元上でe-learningコ
 -------------
 854x480サイズにしか適応していないので、このサイズ以外の端末では恐らく動きません。  
 使用される際は、Forkして編集するなり854x480の端末を用意するなりしてお使いください。  
-私は[IS04](http://ja.wikipedia.org/wiki/IS04)でデバックを行なっています。  
+私は[IS04](http://ja.wikipedia.org/wiki/IS04)でデバッグを行なっています。  
 
 About
 -------------
