@@ -32,9 +32,9 @@
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
     <icon>
-        <image36x36>icon_036.png</image36x36>
-        <image48x48>icon_048.png</image48x48>
-        <image72x72>icon_072.png</image72x72>
+        <image36x36>asset/icon_036.png</image36x36>
+        <image48x48>asset/icon_048.png</image48x48>
+        <image72x72>asset/icon_072.png</image72x72>
     </icon>
     <android>
         <colorDepth>16bit</colorDepth>
