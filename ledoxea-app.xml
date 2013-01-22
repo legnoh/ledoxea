@@ -3,18 +3,18 @@
     <id>ledoxea</id>
     <versionNumber>1.0.0</versionNumber>
     <filename>LEDOXEA</filename>
-    <description>Legdoxea is 3D view e-learning searcher.</description>
+    <description>LEDOXEA is 3D view e-learning searcher.</description>
     <!-- To localize the description, use the following format for the description element.
   <description>
-    <text xml:lang="en">Legdoxea is 3D view e-learning searcher.</text>
-    <text xml:lang="ja">Legdoxeaは、3D表示型のeラーニングドキュメント検索エンジンです。</text>
+    <text xml:lang="en">LEDOXEA is 3D view e-learning searcher.</text>
+    <text xml:lang="ja">LEDOXEAは、3D表示型のeラーニングドキュメント検索エンジンです。</text>
   </description>
   -->
     <name>LEDOXEA</name>
     <!-- To localize the name, use the following format for the name element.
   <name>
-    <text xml:lang="en">English App name goes here</text>
-    <text xml:lang="ja">Japanese App name goes here</text>
+    <text xml:lang="en">LEDOXEA</text>
+    <text xml:lang="ja">LEDOXEA</text>
   </name>
   -->
     <copyright></copyright>
