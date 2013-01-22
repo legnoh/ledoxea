@@ -38,7 +38,7 @@
     </icon>
     <android>
         <colorDepth>16bit</colorDepth>
-        <manifestAdditions><![CDATA[<manifest><uses-permission android:name="android.permission.INTERNET"/></manifest>]]></manifestAdditions>
+        <manifestAdditions><![CDATA[<manifest><uses-permission android:name="android.permission.INTERNET"/><uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/></manifest>]]></manifestAdditions>
     </android>
     <versionLabel></versionLabel>
     <supportedLanguages>en ja</supportedLanguages>
